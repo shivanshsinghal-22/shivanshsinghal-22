@@ -10,9 +10,9 @@ Utilizing cutting-edge segmentation models, the project initiates the separation
 
 <p align="center">
 <img width="200" height="200" src="https://github.com/shivanshsinghal-22/shivanshsinghal-22/assets/134637978/492137f4-417e-410c-900d-df0a1ff191e7">
-![image](https://github.com/shivanshsinghal-22/shivanshsinghal-22/assets/134637978/ef8f849a-a880-4a18-b4f4-191cd20faba2)
-![stlouis_l5tm_19aug93_30m](https://github.com/shivanshsinghal-22/shivanshsinghal-22/assets/134637978/b74aebcc-d0db-49f3-9443-1dde4d708b1e)
-![image](https://github.com/shivanshsinghal-22/shivanshsinghal-22/assets/134637978/3321a90a-3dbf-4478-a67e-7b9f7a582eda)
+<img width="200" height="200" src="https://github.com/shivanshsinghal-22/shivanshsinghal-22/assets/134637978/ef8f849a-a880-4a18-b4f4-191cd20faba2">
+<img width="200" height="200" src="https://github.com/shivanshsinghal-22/shivanshsinghal-22/assets/134637978/b74aebcc-d0db-49f3-9443-1dde4d708b1e">
+<img width="200" height="200" src="https://github.com/shivanshsinghal-22/shivanshsinghal-22/assets/134637978/3321a90a-3dbf-4478-a67e-7b9f7a582eda">
 </p>
 
 Area Calculation
