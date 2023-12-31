@@ -7,10 +7,13 @@ Methodology
 
 #Image Segmentation
 Utilizing cutting-edge segmentation models, the project initiates the separation of water bodies from the main land in satellite images. This step is pivotal in isolating the region of interest and preparing the groundwork for subsequent analysis.
-![image](https://github.com/shivanshsinghal-22/shivanshsinghal-22/assets/134637978/492137f4-417e-410c-900d-df0a1ff191e7)
+
+<p align="center">
+<img width="200" height="200" src="https://github.com/shivanshsinghal-22/shivanshsinghal-22/assets/134637978/492137f4-417e-410c-900d-df0a1ff191e7">
 ![image](https://github.com/shivanshsinghal-22/shivanshsinghal-22/assets/134637978/ef8f849a-a880-4a18-b4f4-191cd20faba2)
 ![stlouis_l5tm_19aug93_30m](https://github.com/shivanshsinghal-22/shivanshsinghal-22/assets/134637978/b74aebcc-d0db-49f3-9443-1dde4d708b1e)
 ![image](https://github.com/shivanshsinghal-22/shivanshsinghal-22/assets/134637978/3321a90a-3dbf-4478-a67e-7b9f7a582eda)
+</p>
 
 Area Calculation
 The segmented images are then employed to calculate the area of the water region before and after flood occurrences. By comparing these measurements, the project yields valuable data on the expansion of water coverage during flood events.
