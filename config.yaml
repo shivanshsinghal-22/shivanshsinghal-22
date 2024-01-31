@@ -1,0 +1,8 @@
+path: C:/Users/singh/Desktop/Project/data
+train: images/train
+val: images/val
+
+names:
+  0: With masks
+  1: Without masks
+  2: Mask worn incorrectly
